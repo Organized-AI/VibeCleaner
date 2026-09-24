@@ -318,3 +318,7 @@ MIT License - see [LICENSE](./LICENSE) for details.
 ---
 
 *Ready to help vibe coders keep their digital workspace as clean as their code!* 🎯✨
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
